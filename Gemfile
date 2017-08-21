@@ -11,7 +11,9 @@ gem 'rails', '~> 5.1.3.rc2'
 # Structure the forms
 gem 'simple_form', '~> 3.5'
 # Bootstrap
-gem 'bootstrap', '~> 4.0.0.beta'
+gem 'bootstrap-sass', '~> 3.3.6'
+# Authentications
+gem 'devise', '~> 4.3'
 # Use sqlite3 as the database for Active Record
 gem 'sqlite3'
 # Jquery
